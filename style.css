@@ -1,0 +1,27 @@
+body,
+html {
+  width: 100%;
+  height: 100%;
+  font-family: 'Montserrat', sans-serif;
+  background: url(vendome.jpg) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+h1 {font-size: 2.5rem;color: rgb(15, 15, 92);}
+
+hr {border-color: rgb(182, 0, 15);border-width: 4px; max-width: 65px;}
+
+.btn {font-weight: 700;
+  border-radius: 200px;
+text-transform: uppercase;}
+
+.btn-primary {background-color: rgb(182, 0, 15);border-color: goldenrod; --bs-btn-hover-bg: rgb(230, 0, 0);	
+  --bs-btn-hover-border-color: goldenrod}
+.btn-primary :hover{background-color: rgb(230, 0, 0);border-color: goldenrod;border-radius: 4px;}
+
+.btn-xl {padding: 1em 2rem;}
+
+.buffer {height: 5rem;}
