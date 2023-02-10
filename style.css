@@ -10,9 +10,9 @@ html {
   background-size: cover;
 }
 
-h1 {font-size: 2.5rem;color: rgb(15, 15, 92);}
+h1 {font-weight: 400; font-size: 3rem;color: rgb(222, 222, 245);}
 
-hr {border-color: rgb(182, 0, 15);border-width: 4px; max-width: 65px;}
+hr {border-color: rgb(182, 0, 15);border-width: 4px; max-width: 25%; margin: auto;}
 
 .btn {font-weight: 700;
   border-radius: 200px;
